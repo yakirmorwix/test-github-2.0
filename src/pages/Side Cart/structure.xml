@@ -1,6 +1,0 @@
-<Page codeName="page1" id="ghkjs">
-  <PopupContainer codeName="lightbox1" id="comp-m4v63ye42">
-    <TPAMultiSection codeName="sideCart1" id="comp-m4v63yeh" styleId="tpas0" />
-    <AppController codeName="sideCartLightboxController1" id="comp-m4v63yh5" styleId="controller1" />
-  </PopupContainer>
-</Page>
