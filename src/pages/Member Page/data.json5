@@ -48,15 +48,11 @@
             type: 'PlaceholderSlot',
           },
           'comp-m4v648f5_r_comp-laaxrh11-slotsQuery': {
-            slots: {
-              slot: 'comp-m4v649l5',
-            },
+            slots: {},
             type: 'PlaceholderSlot',
           },
           'comp-m4v648f5_r_comp-laaxyzt2-slotsQuery': {
-            slots: {
-              slot: 'comp-m4v64bda',
-            },
+            slots: {},
             type: 'PlaceholderSlot',
           },
           'comp-m4v648f5_r_comp-laaxz57w-slotsQuery': {
@@ -72,26 +68,6 @@
             type: 'PlaceholderSlot',
           },
         },
-      },
-    },
-    'comp-m4v649l5': {
-      data: {
-        appDefinitionId: '1380b703-ce81-ff05-f115-39571d94dfcd',
-        applicationId: '3583',
-        id: 'dataItem-m4v649l8',
-        type: 'TPAWidget',
-        usesCssPerBreakpoint: false,
-        widgetId: '14e121c8-00a3-f7cc-6156-2c82a2ba8fcb',
-      },
-    },
-    'comp-m4v64bda': {
-      data: {
-        appDefinitionId: '1505b775-e885-eb1b-b665-1e485d9bf90e',
-        applicationId: '6495',
-        id: 'dataItem-m4v64bdn',
-        type: 'TPAWidget',
-        usesCssPerBreakpoint: false,
-        widgetId: '151290e1-62a2-0775-6fbc-02182fad5dec',
       },
     },
     'comp-m4v64c2h': {

@@ -1,8 +1,0 @@
-<Page codeName="page1" id="vg611">
-  <RefComponent id="comp-m4v63ve5" />
-  <Section codeName="section4" id="comp-m4v63v7q">
-    <RefComponent id="comp-m4v63w83" styleId="ref1" />
-  </Section>
-  <RefComponent id="comp-m4v63vkw" />
-  <RefComponent id="comp-m4v63vpf" />
-</Page>

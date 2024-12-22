@@ -152,8 +152,6 @@
     class-name: wysiwyg.viewer.components.tpapps.TPAMultiSection;
     page-id: ;
     skin: wysiwyg.viewer.skins.TPASectionSkin;
-    style-style-param\\_boolean\\_blogMenu_isSearchEnabled-value: false;
-    style-style-param\\_boolean\\_blogMenu_mobile_isSearchEnabled-value: false;
     style-style-param\\_boolean\\_responsive-value: "true";
     style-type: ComponentStyle;
   }

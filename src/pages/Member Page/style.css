@@ -129,40 +129,6 @@
     presets-type: "PresetData";
   }
 
-  #comp-m4v649l5 {
-    height: 100px;
-    component-layout: ComponentLayout;
-    width: auto;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
-    container-layout: GridContainerLayout;
-    align-self: stretch;
-    grid-column-end: 2;
-    grid-column-start: 1;
-    grid-row-end: 2;
-    grid-row-start: 1;
-    justify-self: stretch;
-    item-layout: GridItemLayout;
-    layout-type: SingleLayoutData;
-  }
-
-  #comp-m4v64bda {
-    height: 100px;
-    component-layout: ComponentLayout;
-    width: auto;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
-    container-layout: GridContainerLayout;
-    align-self: stretch;
-    grid-column-end: 2;
-    grid-column-start: 1;
-    grid-row-end: 2;
-    grid-row-start: 1;
-    justify-self: stretch;
-    item-layout: GridItemLayout;
-    layout-type: SingleLayoutData;
-  }
-
   #comp-m4v64c2h {
     height: auto;
     component-layout: ComponentLayout;

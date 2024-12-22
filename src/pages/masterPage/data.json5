@@ -4,7 +4,6 @@
     c1dmp: 'c1dmp',
     e1afi: 'e1afi',
     fbr1y: 'fbr1y',
-    fcasl: 'fcasl',
     fm1sb: 'fm1sb',
     gdacw: 'gdacw',
     gsfi0: 'gsfi0',
@@ -443,7 +442,7 @@
         controllerType: 'members',
         id: 'CONTROLLER_COMP_CUSTOM_ID',
         name: 'Members controller',
-        settings: '{"isMembersAreaV2":true,"isMembersAreaSeoEnabled":true,"routes":[{"path":"my-orders","state":"b2","home":false,"private":true,"widgetId":"14e121c8-00a3-f7cc-6156-2c82a2ba8fcb"},{"path":"my-addresses","state":"b3","home":false,"private":true,"widgetId":"151290e1-62a2-0775-6fbc-02182fad5dec"},{"path":"my-account","state":"b1","private":true,"widgetId":"14dd1af6-3e02-63db-0ef2-72fbc7cc3136"},{"path":"my-wallet","state":"b4","home":false,"private":true,"widgetId":"6467c15e-af3c-4e8d-b167-41bfb8efc32a"},{"path":"my-bookings","state":"b5","home":false,"private":true,"widgetId":"14edb332-fdb9-2fe6-0fd1-e6293322b83b"}]}',
+        settings: '{"isMembersAreaV2":true,"isMembersAreaSeoEnabled":true,"routes":[{"path":"my-account","state":"b1","private":true,"widgetId":"14dd1af6-3e02-63db-0ef2-72fbc7cc3136"},{"path":"my-wallet","state":"b4","home":false,"private":true,"widgetId":"6467c15e-af3c-4e8d-b167-41bfb8efc32a"},{"path":"my-bookings","state":"b5","home":false,"private":true,"widgetId":"14edb332-fdb9-2fe6-0fd1-e6293322b83b"}]}',
         type: 'AppController',
       },
       structure: {
@@ -492,7 +491,7 @@
               version: '^0.0.0',
             },
             '1505b775-e885-eb1b-b665-1e485d9bf90e': {
-              status: 'INSTALLED',
+              status: 'REMOVED',
               version: '^0.0.0',
             },
             '1514b01b-cb08-41b4-8582-0a88551ac769': {
@@ -500,7 +499,7 @@
               version: '^0.0.0',
             },
             '215238eb-22a5-4c36-9e7b-e7c08025e04e': {
-              status: 'INSTALLED',
+              status: 'REMOVED',
               version: '^0.0.0',
             },
             '47e245ca-1a42-4d6a-a69a-c125bc839b40': {
@@ -516,7 +515,7 @@
               version: '^5.0.0',
             },
             'a0c68605-c2e7-4c8d-9ea1-767f9770e087': {
-              status: 'INSTALLED',
+              status: 'REMOVED',
               version: '^27.0.0',
             },
             'b976560c-3122-4351-878f-453f337b7245': {
@@ -948,9 +947,6 @@
       'URI-category': {
         type: 'AtomicScope',
       },
-      'URI-category-page': {
-        type: 'AtomicScope',
-      },
       'URI-checkout': {
         type: 'AtomicScope',
       },
@@ -961,9 +957,6 @@
         type: 'AtomicScope',
       },
       'URI-post': {
-        type: 'AtomicScope',
-      },
-      'URI-product-page': {
         type: 'AtomicScope',
       },
       'URI-products': {
@@ -1289,19 +1282,6 @@
                 isVisible: false,
                 isVisibleMobile: false,
                 items: [],
-                label: 'Category Page',
-                link: {
-                  id: 'dataItem-m4v63oek3',
-                  pageId: '#fcasl',
-                  target: '_self',
-                  type: 'PageLink',
-                },
-                type: 'BasicMenuItem',
-              },
-              {
-                isVisible: false,
-                isVisibleMobile: false,
-                items: [],
                 label: 'Cart Page',
                 link: {
                   id: 'dataItem-m4v63y763',
@@ -1505,40 +1485,6 @@
                 isVisible: true,
                 isVisibleMobile: true,
                 items: [],
-                label: 'My Orders',
-                link: {
-                  appDefinitionId: 'b976560c-3122-4351-878f-453f337b7245',
-                  id: 'dataItem-m4v64dap9',
-                  itemId: '14e121c8-00a3-f7cc-6156-2c82a2ba8fcb',
-                  itemTypeIdentifier: 'wix.members_area.sub_pages.tab',
-                  pageId: '#su9pp',
-                  path: '/members-area/my/my-orders',
-                  target: '_self',
-                  type: 'TpaPageLink',
-                },
-                type: 'BasicMenuItem',
-              },
-              {
-                isVisible: true,
-                isVisibleMobile: true,
-                items: [],
-                label: 'My Addresses',
-                link: {
-                  appDefinitionId: 'b976560c-3122-4351-878f-453f337b7245',
-                  id: 'dataItem-m4v64dap11',
-                  itemId: '151290e1-62a2-0775-6fbc-02182fad5dec',
-                  itemTypeIdentifier: 'wix.members_area.sub_pages.tab',
-                  pageId: '#su9pp',
-                  path: '/members-area/my/my-addresses',
-                  target: '_self',
-                  type: 'TpaPageLink',
-                },
-                type: 'BasicMenuItem',
-              },
-              {
-                isVisible: true,
-                isVisibleMobile: true,
-                items: [],
                 label: 'My Wallet',
                 link: {
                   appDefinitionId: 'b976560c-3122-4351-878f-453f337b7245',
@@ -1590,40 +1536,6 @@
                   itemTypeIdentifier: 'wix.members_area.sub_pages.tab',
                   pageId: '#su9pp',
                   path: '/members-area/my/my-account',
-                  target: '_self',
-                  type: 'TpaPageLink',
-                },
-                type: 'BasicMenuItem',
-              },
-              {
-                isVisible: true,
-                isVisibleMobile: true,
-                items: [],
-                label: 'My Orders',
-                link: {
-                  appDefinitionId: 'b976560c-3122-4351-878f-453f337b7245',
-                  id: 'dataItem-m4v64dap1',
-                  itemId: '14e121c8-00a3-f7cc-6156-2c82a2ba8fcb',
-                  itemTypeIdentifier: 'wix.members_area.sub_pages.tab',
-                  pageId: '#su9pp',
-                  path: '/members-area/my/my-orders',
-                  target: '_self',
-                  type: 'TpaPageLink',
-                },
-                type: 'BasicMenuItem',
-              },
-              {
-                isVisible: true,
-                isVisibleMobile: true,
-                items: [],
-                label: 'My Addresses',
-                link: {
-                  appDefinitionId: 'b976560c-3122-4351-878f-453f337b7245',
-                  id: 'dataItem-m4v64dap3',
-                  itemId: '151290e1-62a2-0775-6fbc-02182fad5dec',
-                  itemTypeIdentifier: 'wix.members_area.sub_pages.tab',
-                  pageId: '#su9pp',
-                  path: '/members-area/my/my-addresses',
                   target: '_self',
                   type: 'TpaPageLink',
                 },
@@ -1704,7 +1616,7 @@
       },
       'tpaData-5412': {
         appDefinitionId: '14cc59bc-f0b7-15b8-e1c7-89ce41d0e0c9',
-        content: '{"routes":[{"path":"my-orders","state":"b2","home":false,"private":true,"widgetId":"14e121c8-00a3-f7cc-6156-2c82a2ba8fcb"},{"path":"my-addresses","state":"b3","home":false,"private":true,"widgetId":"151290e1-62a2-0775-6fbc-02182fad5dec"},{"path":"my-account","state":"b1","private":true,"widgetId":"14dd1af6-3e02-63db-0ef2-72fbc7cc3136"},{"path":"my-wallet","state":"b4","home":false,"private":true,"widgetId":"6467c15e-af3c-4e8d-b167-41bfb8efc32a"},{"path":"my-bookings","state":"b5","home":false,"private":true,"widgetId":"14edb332-fdb9-2fe6-0fd1-e6293322b83b"}]}',
+        content: '{"routes":[{"path":"my-account","state":"b1","private":true,"widgetId":"14dd1af6-3e02-63db-0ef2-72fbc7cc3136"},{"path":"my-wallet","state":"b4","home":false,"private":true,"widgetId":"6467c15e-af3c-4e8d-b167-41bfb8efc32a"},{"path":"my-bookings","state":"b5","home":false,"private":true,"widgetId":"14edb332-fdb9-2fe6-0fd1-e6293322b83b"}]}',
         type: 'TPAGlobalData',
       },
     },
