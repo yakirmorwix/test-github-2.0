@@ -825,6 +825,9 @@
       'atomicScopes-m4vjhhad': {
         type: 'AtomicScope',
       },
+      'atomicScopes-m4zgekzg': {
+        type: 'AtomicScope',
+      },
       'URI-blank': {
         type: 'AtomicScope',
       },

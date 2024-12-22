@@ -1,6 +1,9 @@
 <Page codeName="page1" id="c1dmp">
   <RefComponent id="comp-kbgakxea" />
   <Section codeName="section4" id="comp-m28o2bbb">
+    <WRichText codeName="text4" id="comp-m4zgekz2">
+      <![CDATA[<h2 class="font_2">Add a Title</h2>]]>
+    </WRichText>
     <SiteButton codeName="button1" id="comp-m4vj0pum">
       Start Now
     </SiteButton>

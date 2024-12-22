@@ -225,6 +225,38 @@
     style-type: ComponentStyle;
   }
 
+  #comp-m4zgekz2 {
+    height: auto;
+    hidden: false;
+    max-width: 99999px;
+    min-width: 0px;
+    component-layout: ComponentLayout;
+    width: 18.125%;
+    align-self: start;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    justify-self: start;
+    item-margin-bottom: 0spx;
+    item-margin-left: 286spx;
+    item-margin-right: 0spx;
+    item-margin-top: 98.625spx;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.WRichText;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+    spx-ref-width: 1280;
+    spx-resolver-type: scale;
+    style-style-blendMode-value: "normal";
+    text-decoration: none;
+    style-type: ComponentStyle;
+  }
+
 }
 
 @media (max-width: 1000px) and (canvas-size: 768px) {

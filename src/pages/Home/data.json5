@@ -155,6 +155,20 @@
         skin: 'wixui.skins.ImageX',
       },
     },
+    'comp-m4zgekz2': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextThemeSkin',
+      },
+    },
   },
   appControllers: {},
   version: '0.0.23',
