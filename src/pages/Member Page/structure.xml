@@ -3,8 +3,6 @@
   <Section codeName="section4" id="comp-m4v647cz">
     <RefComponent id="comp-m4v648f5" styleId="ref1">
       <TPAWidget codeName="7" id="comp-m4v64c2h" styleId="tpaw0" />
-      <TPAWidget codeName="8" id="comp-m4v64d0r" styleId="tpaw0" />
-      <TPAWidget codeName="9" id="comp-m4v66h5v" styleId="tpaw0" />
     </RefComponent>
   </Section>
   <RefComponent id="comp-m4v647uf" />

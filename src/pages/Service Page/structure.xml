@@ -1,8 +1,0 @@
-<Page codeName="page1" id="wstqg">
-  <RefComponent id="comp-m4v66j9n" />
-  <RefComponent id="comp-m4v66jkq" />
-  <RefComponent id="comp-m4v66jrv" />
-  <Section codeName="section4" id="comp-m4v66l6x">
-    <TPAMultiSection codeName="bookingServicePage1" id="TPAMultiSection_m4v66dig" />
-  </Section>
-</Page>
