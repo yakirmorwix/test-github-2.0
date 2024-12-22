@@ -1,0 +1,219 @@
+{
+  externalRefs: {
+    'comp-kbgajy18': 'comp-kbgajy18',
+    'comp-kbgakgyt': 'comp-kbgakgyt',
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    'variables-m28o2bcx': 'variables-m28o2bcx',
+  },
+  components: {
+    'comp-m4v647lo': {
+      data: {
+        rootCompId: 'comp-kbgajy18',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4v647uf': {
+      data: {
+        rootCompId: 'comp-kbgakgyt',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4v647zm': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4v648f5': {
+      data: {
+        appDefinitionId: 'b976560c-3122-4351-878f-453f337b7245',
+        type: 'WidgetRef',
+        widgetId: '596a6688-3ad7-46f7-bb9c-00023225876d',
+      },
+      overrides: {
+        slots: {
+          'comp-m4v648f5_r_comp-laav3cx8-slotsQuery': {
+            slots: {
+              slot: 'comp-m4v64c2h',
+            },
+            type: 'PlaceholderSlot',
+          },
+          'comp-m4v648f5_r_comp-laaxrh11-slotsQuery': {
+            slots: {
+              slot: 'comp-m4v649l5',
+            },
+            type: 'PlaceholderSlot',
+          },
+          'comp-m4v648f5_r_comp-laaxyzt2-slotsQuery': {
+            slots: {
+              slot: 'comp-m4v64bda',
+            },
+            type: 'PlaceholderSlot',
+          },
+          'comp-m4v648f5_r_comp-laaxz57w-slotsQuery': {
+            slots: {
+              slot: 'comp-m4v64d0r',
+            },
+            type: 'PlaceholderSlot',
+          },
+          'comp-m4v648f5_r_comp-laaxzc3z-slotsQuery': {
+            slots: {
+              slot: 'comp-m4v66h5v',
+            },
+            type: 'PlaceholderSlot',
+          },
+        },
+      },
+    },
+    'comp-m4v649l5': {
+      data: {
+        appDefinitionId: '1380b703-ce81-ff05-f115-39571d94dfcd',
+        applicationId: '3583',
+        id: 'dataItem-m4v649l8',
+        type: 'TPAWidget',
+        usesCssPerBreakpoint: false,
+        widgetId: '14e121c8-00a3-f7cc-6156-2c82a2ba8fcb',
+      },
+    },
+    'comp-m4v64bda': {
+      data: {
+        appDefinitionId: '1505b775-e885-eb1b-b665-1e485d9bf90e',
+        applicationId: '6495',
+        id: 'dataItem-m4v64bdn',
+        type: 'TPAWidget',
+        usesCssPerBreakpoint: false,
+        widgetId: '151290e1-62a2-0775-6fbc-02182fad5dec',
+      },
+    },
+    'comp-m4v64c2h': {
+      data: {
+        appDefinitionId: '14cffd81-5215-0a7f-22f8-074b0e2401fb',
+        applicationId: '6220',
+        id: 'dataItem-m4v64c2p',
+        type: 'TPAWidget',
+        usesCssPerBreakpoint: true,
+        widgetId: '14dd1af6-3e02-63db-0ef2-72fbc7cc3136',
+      },
+    },
+    'comp-m4v64d0r': {
+      data: {
+        appDefinitionId: '4aebd0cb-fbdb-4da7-b5d1-d05660a30172',
+        applicationId: '7083',
+        id: 'dataItem-m4v64d0w',
+        type: 'TPAWidget',
+        usesCssPerBreakpoint: false,
+        widgetId: '6467c15e-af3c-4e8d-b167-41bfb8efc32a',
+      },
+    },
+    'comp-m4v66h5v': {
+      data: {
+        appDefinitionId: '13d21c63-b5ec-5912-8397-c3a5ddb27a97',
+        applicationId: '7417',
+        id: 'dataItem-m4v66h63',
+        type: 'TPAWidget',
+        usesCssPerBreakpoint: true,
+        widgetId: '14edb332-fdb9-2fe6-0fd1-e6293322b83b',
+      },
+    },
+    su9pp: {
+      breakpointVariants: {
+        componentId: 'su9pp',
+        type: 'BreakpointsData',
+        values: [
+          {
+            canvasSize: 1280,
+            id: 'variants-m4v647f2',
+            max: 2147483647,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 768,
+            id: 'variants-m4v647cy',
+            max: 1000,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 390,
+            id: 'variants-m4v647cy1',
+            max: 750,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+        ],
+      },
+      data: {
+        appDefinitionId: 'b976560c-3122-4351-878f-453f337b7245',
+        descriptionSEO: '',
+        hidePage: false,
+        hideTitle: true,
+        icon: '',
+        id: 'su9pp',
+        managingAppDefId: '14cc59bc-f0b7-15b8-e1c7-89ce41d0e0c9',
+        metaKeywordsSEO: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: 'color_11',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: 'color_11',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'members-area',
+        title: 'Member Page',
+        tpaApplicationId: 6069,
+        tpaPageId: 'member_page',
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      fixerVersions: {
+        migration_fixer: 'AAQBAQEBAQEBAQEBAQICAgECAgEIAQECAQECAAIBAAEAAQEBAQEFAQAFAQEAAQABAQEBAQIAAQI=',
+        type: 'FixerVersions',
+        viewer_fixer: 'AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA==',
+      },
+      mobileHints: {
+        hidden: false,
+        type: 'MobileHints',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.TransparentPageSkin',
+      },
+    },
+  },
+  appControllers: {},
+  version: '0.0.23',
+  collections: {},
+}

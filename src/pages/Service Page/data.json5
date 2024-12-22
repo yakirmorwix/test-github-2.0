@@ -1,0 +1,141 @@
+{
+  externalRefs: {
+    'comp-kbgajy18': 'comp-kbgajy18',
+    'comp-kbgakgyt': 'comp-kbgakgyt',
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    'variables-m28o2bcx': 'variables-m28o2bcx',
+  },
+  components: {
+    'comp-m4v66j9n': {
+      data: {
+        rootCompId: 'comp-kbgajy18',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4v66jkq': {
+      data: {
+        rootCompId: 'comp-kbgakgyt',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4v66jrv': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    TPAMultiSection_m4v66dig: {
+      data: {
+        appDefinitionId: '13d21c63-b5ec-5912-8397-c3a5ddb27a97',
+        applicationId: '7417',
+        id: 'dataItem-m4v66dis',
+        type: 'TPAMultiSection',
+        usesCssPerBreakpoint: true,
+        widgetId: 'a91a0543-d4bd-4e6b-b315-9410aa27bcde',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.TPASectionSkin',
+      },
+    },
+    wstqg: {
+      breakpointVariants: {
+        componentId: 'wstqg',
+        type: 'BreakpointsData',
+        values: [
+          {
+            canvasSize: 1280,
+            id: 'variants-m4v66dij',
+            max: 2147483647,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 768,
+            id: 'variants-m4v66dij1',
+            max: 1000,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 390,
+            id: 'variants-m4v66dij2',
+            max: 750,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+        ],
+      },
+      data: {
+        appDefinitionId: '13d21c63-b5ec-5912-8397-c3a5ddb27a97',
+        descriptionSEO: '',
+        hidePage: true,
+        hideTitle: true,
+        icon: '',
+        id: 'wstqg',
+        managingAppDefId: '13d21c63-b5ec-5912-8397-c3a5ddb27a97',
+        metaKeywordsSEO: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: 'color_11',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: 'color_11',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'service-page',
+        title: 'Service Page',
+        tpaApplicationId: 7417,
+        tpaPageId: 'Booking Service Page',
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      fixerVersions: {
+        migration_fixer: 'AAQBAQEBAQEBAQEBAQICAgECAgEIAQECAQECAAIBAAEAAQEBAQEFAQAFAQEAAQABAQEBAQIAAQI=',
+        type: 'FixerVersions',
+        viewer_fixer: 'AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA==',
+      },
+      mobileHints: {
+        hidden: false,
+        type: 'MobileHints',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.TransparentPageSkin',
+      },
+    },
+  },
+  appControllers: {},
+  version: '0.0.23',
+  collections: {},
+}

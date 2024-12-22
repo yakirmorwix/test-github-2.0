@@ -1,0 +1,30 @@
+<Page codeName="page1" id="u17a4">
+  <RefComponent id="comp-m4v61dsv" />
+  <Section codeName="section8" id="comp-m4v61dr0">
+    <Container codeName="box6" id="comp-m4v61dr9">
+      <Container codeName="box5" id="comp-m4v61dre">
+        <WRichText codeName="text5" id="comp-m4v61dri">
+          <![CDATA[<h2 class="font_2">Add a Title</h2>]]>
+        </WRichText>
+        <WRichText codeName="text4" id="comp-m4v61drs">
+          <![CDATA[<p class="font_8"><span>Add paragraph text. Click &ldquo;Edit Text&rdquo; to update the font, size and more. To change and reuse text themes, go to Site Styles.</span></p>]]>
+        </WRichText>
+      </Container>
+    </Container>
+    <Container codeName="box4" id="comp-m4v61drv1" />
+    <Container codeName="box3" id="comp-m4v61dry" />
+    <Container codeName="box2" id="comp-m4v61ds02" />
+    <Container codeName="box7" id="comp-m4v61ds3">
+      <FiveGridLine codeName="line1" id="comp-m4v61ds53" />
+      <SiteButton codeName="button2" id="comp-m4v61ds9">
+        Next Item
+      </SiteButton>
+      <SiteButton codeName="button1" id="comp-m4v61dsf1">
+        Previous Item
+      </SiteButton>
+    </Container>
+  </Section>
+  <RefComponent id="comp-m4v61dsz" />
+  <AppController codeName="dynamicDataset" id="comp-m4v61dsi1" styleId="controller1" />
+  <RefComponent id="comp-m4v61dve" />
+</Page>

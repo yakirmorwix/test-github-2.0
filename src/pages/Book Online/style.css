@@ -1,0 +1,159 @@
+@media (canvas-size: 1280px) {
+  #comp-m4v66hkv {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    layout-itemLayout-id: "";
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-m4v66hv6 {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 4;
+    grid-row-start: 3;
+    layout-itemLayout-id: "";
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-m4v66ieh {
+    height: auto;
+    hidden: false;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: start;
+    justify-self: end;
+    item-margin-right: 0px;
+    item-margin-top: 0px;
+    item-layout: FixedItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-m4v66l4v {
+    design-background-alignType: "center";
+    design-background-color: "color_11";
+    design-background-colorOpacity: 0;
+    design-background-colorOverlay: "";
+    design-background-colorOverlayOpacity: 0;
+    design-background-fittingType: "fill";
+    design-background-scrollType: "none";
+    design-background-type: "BackgroundMedia";
+    design-type: "MediaContainerWithDividers";
+    height: auto;
+    min-height: 0px;
+    component-layout: ComponentLayout;
+    grid-template-columns: minmax(0px,1fr);
+    content-max-width: 99999999999px;
+    grid-template-rows: minmax(500spx,auto);
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 3;
+    grid-row-start: 2;
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    layout-variableConnections: [{"path":"containerLayout/contentMaxWidth/maxWidth","variableId":"variables-m28o2bcx"}];
+    comp-id: ;
+    class-name: responsive.components.Section;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.area.RectangleArea;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #e1afi {
+    height: auto;
+    component-layout: ComponentLayout;
+    grid-template-columns: minmax(0px,1fr);
+    overflow-x: clip;
+    overflow-y: clip;
+    grid-template-rows: auto auto auto;
+    container-layout: GridContainerLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: mobile.core.components.Page;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.page.ResponsivePageWithColorBG;
+    spx-ref-width: 1280;
+    spx-resolver-type: scale;
+    background: rgba(var(--color_11),1);
+    style-type: ComponentStyle;
+  }
+
+  #TPASection_m4v66dhf {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    justify-self: stretch;
+    item-margin-bottom: 20px;
+    item-margin-left: 5%;
+    item-margin-right: 5%;
+    item-margin-top: 20px;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.tpapps.TPASection;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.TPASectionSkin;
+    style-style-param\\_boolean\\_responsive-value: "true";
+    style-type: ComponentStyle;
+  }
+
+}

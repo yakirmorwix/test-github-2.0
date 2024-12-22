@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@wix/cli": "https://cdn.dev.wixpress.com/@wix/cli/efd5271f0fb83a471700e48215f68bcfad4d5fe7fe78b42261495de8.tar.gz",
+    "@wix/eslint-plugin-cli": "^1.0.0",
+    "eslint": "^8.25.0",
+    "react": "16.14.0"
+  },
+  "scripts": {
+    "dev": "WIX_CLI_SITE_V2=true wix dev",
+    "wix": "WIX_CLI_SITE_V2=true wix",
+    "preview": "WIX_CLI_SITE_V2=true wix preview",
+    "publish": "WIX_CLI_SITE_V2=true wix publish"
+  }
+}

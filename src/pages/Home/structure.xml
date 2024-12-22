@@ -1,0 +1,11 @@
+<Page codeName="page1" id="c1dmp">
+  <RefComponent id="comp-kbgakxea" />
+  <Section codeName="section4" id="comp-m28o2bbb">
+    <SiteButton codeName="button1" id="comp-m4vj0pum">
+      Start Now
+    </SiteButton>
+    <ImageX alt="" codeName="imageX1" displayMode="fill" id="comp-m4zg65mb" name="wolfgang-hasselmann-1ICIhK-ElJs-unsplash-edited.jpg" src="55d98a_3287270d83ef4efabfdd1f52d0dc6ec2~mv2.jpg?width=3734&amp;height=2489" />
+  </Section>
+  <RefComponent id="comp-kbgakxmn" />
+  <RefComponent id="comp-kd5px9q0" />
+</Page>

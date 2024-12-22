@@ -1,0 +1,124 @@
+{
+  externalRefs: {
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    'variables-m28o2bcx': 'variables-m28o2bcx',
+  },
+  components: {
+    'comp-m4v63ymc': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    j5tzz: {
+      breakpointVariants: {
+        componentId: 'j5tzz',
+        type: 'BreakpointsData',
+        values: [
+          {
+            canvasSize: 1280,
+            id: 'variants-m4v63ybn',
+            max: 2147483647,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 768,
+            id: 'variants-m4v63ybn1',
+            max: 1000,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 390,
+            id: 'variants-m4v63ybn2',
+            max: 750,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+        ],
+      },
+      data: {
+        appDefinitionId: '1380b703-ce81-ff05-f115-39571d94dfcd',
+        descriptionSEO: '',
+        hidePage: true,
+        hideTitle: true,
+        icon: '',
+        id: 'j5tzz',
+        indexable: false,
+        isLandingPage: true,
+        isMobileLandingPage: true,
+        managingAppDefId: '1380b703-ce81-ff05-f115-39571d94dfcd',
+        metaKeywordsSEO: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'center',
+              color: '{color_11}',
+              fittingType: 'fill',
+              scrollType: 'none',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'center',
+              color: '{color_11}',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'none',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'checkout',
+        title: 'Checkout',
+        tpaApplicationId: 3583,
+        tpaPageId: 'checkout',
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      fixerVersions: {
+        migration_fixer: 'AAQBAQEBAQEBAQEBAQICAgECAgEIAQECAQECAAIBAAEAAQEBAQEFAQAFAQEAAQABAQEBAQIAAQI=',
+        type: 'FixerVersions',
+        viewer_fixer: 'AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA==',
+      },
+      mobileHints: {
+        hidden: false,
+        type: 'MobileHints',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.TransparentPageSkin',
+      },
+    },
+    TPAMultiSection_m4v63ybk: {
+      data: {
+        appDefinitionId: '1380b703-ce81-ff05-f115-39571d94dfcd',
+        applicationId: '3583',
+        id: 'dataItem-m4v63ybu',
+        type: 'TPAMultiSection',
+        usesCssPerBreakpoint: false,
+        widgetId: '14fd5970-8072-c276-1246-058b79e70c1a',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.TPASectionSkin',
+      },
+    },
+  },
+  appControllers: {},
+  version: '0.0.23',
+  collections: {},
+}

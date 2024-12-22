@@ -1,0 +1,399 @@
+{
+  externalRefs: {
+    'comp-kbgajy18': 'comp-kbgajy18',
+    'comp-kbgakgyt': 'comp-kbgakgyt',
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    'variables-m28o2bcx': 'variables-m28o2bcx',
+  },
+  components: {
+    'comp-m4v61eq71': {
+      editorsettings: {
+        layoutIntent: 'SuperGrid',
+        type: 'EditorSettings',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-m4v61eqn1': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v61eqq': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      editorsettings: {
+        dockingBehavior: 'keep',
+        type: 'EditorSettings',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-m4v61eqs2': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v61eqv': {
+      connections: {
+        items: [
+          {
+            config: '{}',
+            controllerId: 'dataItem-lljy9q621',
+            isPrimary: true,
+            role: 'repeaterRole',
+            type: 'ConnectionItem',
+          },
+        ],
+        type: 'ConnectionList',
+      },
+      data: {
+        items: [
+          'item1',
+          'item-j9ples3e',
+          'item-j9plerjk',
+          'item-lldnb2ua',
+        ],
+        type: 'Repeater',
+      },
+      editorsettings: {
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      props: {
+        gap: {
+          horizontal: 5,
+          vertical: 5,
+        },
+        type: 'CardsLayoutProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v61er7': {
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v61erb': {
+      editorsettings: {
+        dockingBehavior: 'keep',
+        type: 'EditorSettings',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v61erd3': {
+      connections: {
+        items: [
+          {
+            config: '{"properties":{"$text":{"fieldName":"productName"}}}',
+            controllerId: 'dataItem-lljy9q621',
+            isPrimary: true,
+            role: 'textRole',
+            type: 'ConnectionItem',
+          },
+        ],
+        type: 'ConnectionList',
+      },
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'advanced',
+        type: 'EditorSettings',
+      },
+      overrides: {
+        data: {
+          'item-j9plerjk': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h2 class="font_2">Add a Title</h2>',
+            type: 'StyledText',
+          },
+          'item-j9ples3e': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h2 class="font_2">Add a Title</h2>',
+            type: 'StyledText',
+          },
+          'item-lldnb2ua': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h2 class="font_2">Add a Title</h2>',
+            type: 'StyledText',
+          },
+          item1: {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<h2 class="font_2">Add a Title</h2>',
+            type: 'StyledText',
+          },
+        },
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextThemeSkin',
+      },
+    },
+    'comp-m4v61eri3': {
+      connections: {
+        items: [
+          {
+            config: '{"properties":{"$text":{"fieldName":"description"}}}',
+            controllerId: 'dataItem-lljy9q621',
+            isPrimary: true,
+            role: 'textRole',
+            type: 'ConnectionItem',
+          },
+        ],
+        type: 'ConnectionList',
+      },
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      overrides: {
+        data: {
+          'item-j9plerjk': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Add paragraph text. Click &ldquo;Edit Text&rdquo; to update the font, size and more. To change and reuse text themes, go to Site Styles.</p>',
+            type: 'StyledText',
+          },
+          'item-j9ples3e': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Add paragraph text. Click &ldquo;Edit Text&rdquo; to update the font, size and more. To change and reuse text themes, go to Site Styles.</p>',
+            type: 'StyledText',
+          },
+          'item-lldnb2ua': {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Add paragraph text. Click &ldquo;Edit Text&rdquo; to update the font, size and more. To change and reuse text themes, go to Site Styles.</p>',
+            type: 'StyledText',
+          },
+          item1: {
+            linkList: [],
+            stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+            text: '<p class="font_8">Add paragraph text. Click &ldquo;Edit Text&rdquo; to update the font, size and more. To change and reuse text themes, go to Site Styles.</p>',
+            type: 'StyledText',
+          },
+        },
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-m4v61ero': {
+      connections: {
+        items: [
+          {
+            config: '{"properties":{"link":{"fieldName":"link-products-productName","linkTarget":"_self"}}}',
+            controllerId: 'dataItem-lljy9q621',
+            isPrimary: true,
+            role: 'siteButtonRole',
+            type: 'ConnectionItem',
+          },
+        ],
+        type: 'ConnectionList',
+      },
+      data: {
+        type: 'LinkableButton',
+      },
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      mobileHints: {
+        author: 'duplicate',
+        originalCompId: 'comp-k5v6h1yd',
+        recommendedHeight: 35,
+        recommendedScale: 1,
+        recommendedWidth: 130,
+        type: 'MobileHints',
+      },
+      overrides: {
+        data: {
+          'item-j9plerjk': {
+            label: 'Start Now',
+            type: 'LinkableButton',
+          },
+          'item-j9ples3e': {
+            label: 'Start Now',
+            type: 'LinkableButton',
+          },
+          'item-lldnb2ua': {
+            label: 'Start Now',
+            type: 'LinkableButton',
+          },
+          item1: {
+            label: 'Start Now',
+            type: 'LinkableButton',
+          },
+        },
+      },
+      props: {
+        type: 'ButtonProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.button.WrappingButton',
+      },
+    },
+    'comp-m4v61es01': {
+      data: {
+        applicationId: 'dataBinding',
+        controllerType: 'router_dataset',
+        id: 'dataItem-lljy9q621',
+        name: 'Products',
+        settings: '{"dataset":{"readWriteType":"READ"}}',
+        type: 'AppController',
+      },
+    },
+    'comp-m4v61es9': {
+      data: {
+        rootCompId: 'comp-kbgajy18',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4v61esa3': {
+      data: {
+        rootCompId: 'comp-kbgakgyt',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4v61eun': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    q91xu: {
+      breakpointVariants: {
+        componentId: 'q91xu',
+        type: 'BreakpointsData',
+        values: [
+          {
+            canvasSize: 1280,
+            id: 'variants-m4v61eq51',
+            max: 2147483647,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 768,
+            id: 'variants-m4v61eq52',
+            max: 1000,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 390,
+            id: 'variants-m4v61eq53',
+            max: 750,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+        ],
+      },
+      data: {
+        hidePage: true,
+        hideTitle: true,
+        icon: '',
+        id: 'q91xu',
+        ignoreBottomBottomAnchors: true,
+        ogImage: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: 'color_11',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: 'color_11',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageSecurity: {
+          requireLogin: false,
+        },
+        pageUriSEO: 'blank-1',
+        title: 'Products (List)',
+        tpaApplicationId: 0,
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      fixerVersions: {
+        migration_fixer: 'AAQBAQEBAQEBAQEBAQICAgECAgEIAQECAQECAAIBAAEAAQEBAQEFAQAFAQEAAQABAQEBAQIAAQI=',
+        type: 'FixerVersions',
+        viewer_fixer: 'AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA==',
+      },
+      mobileHints: {
+        hidden: false,
+        type: 'MobileHints',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.ResponsivePageWithColorBG',
+      },
+    },
+  },
+  appControllers: {},
+  version: '0.0.23',
+  collections: {},
+}

@@ -1,0 +1,46 @@
+<Page codeName="page1" id="vhnyc">
+  <Section codeName="section1" id="comp-m4v7yf8o2">
+    <Container codeName="box26" id="comp-m4v7yf8s">
+      <Container codeName="box9" id="comp-m4v7yf8u1">
+        <Container codeName="box8" id="comp-m4v7yf8w2">
+          <Container codeName="box22" id="comp-m4v7yf8y">
+            <Container codeName="box23" id="comp-m4v7yf90" />
+            <Container codeName="box24" id="comp-m4v7yf921">
+              <WRichText codeName="text9" id="comp-m4v7yf935">
+                <![CDATA[<h3 class="font_3">Card Header</h3>]]>
+              </WRichText>
+              <WRichText codeName="text8" id="comp-m4v7yf96">
+                <![CDATA[<p class="font_7"><span>Subtitle</span></p>]]>
+              </WRichText>
+            </Container>
+            <FiveGridLine codeName="line1" id="comp-m4v7yf973" />
+          </Container>
+        </Container>
+      </Container>
+    </Container>
+    <Container codeName="box25" id="comp-m4v7yf991">
+      <Container codeName="box6" id="comp-m4v7yf9d">
+        <Container codeName="box7" id="comp-m4v7yf9e6">
+          <Container codeName="box28" id="comp-m4v7yf9g1">
+            <WRichText codeName="pageTitleText" id="comp-m4v7yf9h4">
+              <![CDATA[<h1 class="font_0">Page Title</h1>]]>
+            </WRichText>
+            <WRichText codeName="pageSubtitleText" id="comp-m4v7yf9i6">
+              <![CDATA[<p class="font_7"><span>Subtitle</span></p>]]>
+            </WRichText>
+          </Container>
+          <Container codeName="box27" id="comp-m4v7yf9k">
+            <SiteButton codeName="mainActionButton" id="comp-m4v7yf9l4">
+              Main Action
+            </SiteButton>
+            <SiteButton codeName="secondaryActionButton" id="comp-m4v7yf9o">
+              Secondary Action
+            </SiteButton>
+          </Container>
+        </Container>
+      </Container>
+    </Container>
+  </Section>
+  <RefComponent id="comp-m4v7yfec" />
+  <AppController codeName="singleAdminPageController1" id="comp-m4v7yfy9" styleId="controller1" />
+</Page>

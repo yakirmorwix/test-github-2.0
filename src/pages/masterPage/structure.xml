@@ -1,0 +1,43 @@
+<MasterPage documentType="document" id="masterPage">
+  <HeaderContainer codeName="header1" id="SITE_HEADER" styleId="hc1" />
+  <PagesContainer codeName="pagesContainer1" id="PAGES_CONTAINER" styleId="pc1">
+    <PageGroup codeName="pageGroup1" id="SITE_PAGES" />
+  </PagesContainer>
+  <HeaderSection codeName="section3" id="comp-kbgajy18">
+    <Container codeName="box1" id="comp-lj2tqesr">
+      <VectorImage alt="Homepage" codeName="vectorImage2" displayMode="fit" href="page:#c1dmp" id="comp-liu7a4zw" rel="" src="001e97_bafa55e86d4445c5b12733608e4c7643.svg" title="default-logo-new.svg" />
+      <WRichText codeName="text3" id="comp-lj2tel67">
+        <![CDATA[<p class="font_7"><span><a dataquery="#textLink_ljqy1mti">Business Name</a></span></p>]]>
+      </WRichText>
+    </Container>
+    <StylableHorizontalMenu codeName="horizontalMenu1" id="comp-liu6tfrg" />
+    <HamburgerMenuRoot codeName="hamburgerOpenButton1" id="comp-lxu2mi30">
+      <HamburgerOpenButton codeName="hamburgerOpenButtonHidden1" id="comp-lxu2mi38">
+        Menu
+      </HamburgerOpenButton>
+      <HamburgerOverlay codeName="hamburgerOverlay1" id="comp-lxu2mi3c">
+        <HamburgerMenuContainer codeName="hamburgerMenuContainer1" id="comp-lxu2mi3d5">
+          <HamburgerCloseButton codeName="hamburgerCloseButton1" id="comp-lxu2mi3i1">
+            Close
+          </HamburgerCloseButton>
+          <ExpandableMenu codeName="expandableMenu2" id="comp-lxubhuix" />
+        </HamburgerMenuContainer>
+      </HamburgerOverlay>
+    </HamburgerMenuRoot>
+    <TPAWidget codeName="shoppingCartIcon1" id="comp-m4v63zzl" />
+    <AppController codeName="members1" id="CONTROLLER_COMP_CUSTOM_ID" />
+    <AppWidget codeName="membersLoginBar1" id="comp-m4v643t9">
+      <LoginSocialBar codeName="accountNavBar1" id="comp-m4v643tc" />
+    </AppWidget>
+  </HeaderSection>
+  <FooterSection codeName="section2" id="comp-kbgakgyt">
+    <WRichText codeName="text2" id="comp-kd5pdf7t">
+      <![CDATA[<p class="font_9"><span>&copy; 2035 by Business Name. Built on&nbsp;<span style="text-decoration:underline"><a dataquery="#textLink_ljloj8yj">Wix Studio</a></span></span></p>]]>
+    </WRichText>
+  </FooterSection>
+  <MenuContainer codeName="menuContainer1" id="comp-kd5px9hr">
+    <ExpandableMenu codeName="expandableMenu1" id="comp-kd5px9kk" />
+    <VectorImage alt="Close Site Navigation" codeName="vectorImage1" displayMode="stretch" id="comp-kkmqi5tc" src="1d3a0b_97d72ad4c8dc4903bfb02b2baa7763ae.svg" title="newx.svg" />
+  </MenuContainer>
+  <FooterContainer codeName="footer1" id="SITE_FOOTER" styleId="fc1" />
+</MasterPage>

@@ -1,0 +1,1126 @@
+#comp-kbgajy18 {
+  design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":0,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 90px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(90px,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.Section;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-kbgakgyt {
+  design-background-colorLayers: [{"fill":{"color":"color_11","type":"SolidColor"},"opacity":1,"type":"SolidColorLayer"}];
+  design-background-colorOverlay: "";
+  design-background-colorOverlayOpacity: 1;
+  design-background-type: "BackgroundMedia";
+  design-type: "MediaContainerWithDividers";
+  height: auto;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 90px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  grid-template-columns: minmax(0px,1fr);
+  grid-template-rows: minmax(90px,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 4;
+  grid-row-start: 3;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: responsive.components.Section;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.RectangleArea;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0);
+  style-type: ComponentStyle;
+}
+
+#comp-kd5pdf7t {
+  height: auto;
+  hidden: false;
+  max-width: 99999px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 62.5%;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  font-size: 14px;
+  letter-spacing: 0em;
+  line-height: normal;
+  text-align: center;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9hr {
+  height: 100vh;
+  min-height: 100vh;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 300px;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,1fr);
+  hide-scroll-bar: true;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(0px,1fr);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.MenuContainer;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.inlinePopup.ResponsiveInlinePopupWithColorBG;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_15),0.8);
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9hr.variants-ljclok925 {
+  height: 100vh;
+  max-width: 99999px;
+  min-height: 100vh;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100vw;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,390fr);
+  hide-scroll-bar: true;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(0px,1fr);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-kd5px9kk {
+  height: auto;
+  component-layout: ComponentLayout;
+  width: 60%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 200px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 100px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_11),0);
+  style-style-bgexpanded-additionalData-alpha: "0";
+  style-style-bgexpanded-value: "color_11";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0";
+  style-style-bgs-value: "color_11";
+  style-style-bgsSub-additionalData-alpha: "0";
+  style-style-bgsSub-value: "color_11";
+  border-color: rgba(var(--color_15),0.2);
+  border-width: 0px 0px 0px 0px;
+  font: overrides(var(--font_8),initial initial 18px initial);
+  style-style-fntSubMenu-overrides-fontSize: "15px";
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "10";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light {color_14}";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "25";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_15));
+  style-style-txtexpanded-value: "color_15";
+  style-style-txts-value: "color_18";
+  style-style-txtsSub-value: "color_18";
+  padding-vertical: 10.0;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9kk.variants-ljclok925 {
+  height: auto;
+  component-layout: ComponentLayout;
+  width: 46.15384615384615%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 200px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 100px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_11),0);
+  style-style-bgexpanded-additionalData-alpha: "0";
+  style-style-bgexpanded-value: "color_11";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0";
+  style-style-bgs-value: "color_11";
+  style-style-bgsSub-additionalData-alpha: "0";
+  style-style-bgsSub-value: "color_11";
+  border-color: rgba(var(--color_15),0.2);
+  border-width: 0px 0px 0px 0px;
+  font: overrides(var(--font_8),initial initial 16px initial);
+  style-style-fntSubMenu-overrides-fontSize: "14px";
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "10";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light {color_14}";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "25";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_18));
+  style-style-txtexpanded-value: "color_18";
+  style-style-txts-value: "color_15";
+  style-style-txtsSub-value: "color_15";
+  padding-vertical: 10.0;
+  style-type: ComponentStyle;
+}
+
+#comp-kd5px9kk.variants-ljclok924 {
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "color_15";
+  background: rgba(var(--color_11),0);
+  style-style-bgexpanded-additionalData-alpha: "0";
+  style-style-bgexpanded-value: "color_11";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0";
+  style-style-bgs-value: "color_11";
+  style-style-bgsSub-additionalData-alpha: "0";
+  style-style-bgsSub-value: "color_11";
+  border-color: rgba(var(--color_15),0.2);
+  border-width: 0px 0px 0px 0px;
+  font: overrides(var(--font_8),initial initial 18px initial);
+  style-style-fntSubMenu-overrides-fontSize: "15px";
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "10";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light {color_14}";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "25";
+  style-style-textSpacing-value: "0";
+  text: rgb(var(--color_18));
+  style-style-txtexpanded-value: "color_18";
+  style-style-txts-value: "color_15";
+  style-style-txtsSub-value: "color_15";
+  padding-vertical: 10.0;
+  style-type: ComponentStyle;
+}
+
+#comp-kkmqi5tc {
+  override-color1: color_15;
+  opacity: 1;
+  stroke: disabled(rgba(237,21,102,1) 1px);
+  design-type: VectorImageDesignData;
+  height: 20px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 20px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0%;
+  item-margin-right: 40px;
+  item-margin-top: 40px;
+  position: sticky;
+  top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  page-id: ;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-liu6tfrg {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 45.6875px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 37.547607421875%;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0.00244140625%;
+  item-margin-left: 0%;
+  item-margin-right: 2.999267578125%;
+  item-margin-top: 0%;
+  position: relative;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableHorizontalMenu;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1263;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{\\n    -st-from:'wix-ui-santa/index.st.css'\;\\n    -st-named:StylableHorizontalMenu\\n}\\n.root{\\n    -st-extends:StylableHorizontalMenu\;\\n    background: rgba(255,255,255,0)\;\\n    border: 0px solid value(site_1_5)\\n}\\n.root::menu{\\n    width:calc(100% + 8px)\;\\n    margin-left:-4px\;\\n    margin-right:-4px\;\\n    height:calc(100% + 8px)\;\\n    margin-top:-4px\;\\n    margin-bottom:-4px\;\\n    direction: ltr\;\\n    flex-grow: unset\;\\n    justify-content: flex-end\\n}\\n.root::menuItem{\\n    padding-right:10px\;\\n    padding-left:10px\;\\n    margin-left:4px\;\\n    margin-right:4px\;\\n    margin-top:4px\;\\n    margin-bottom:4px\;\\n    padding-top:10px\;\\n    padding-bottom:10px\;\\n    border: 0px solid value(site_1_5)\;\\n    background: rgba(117, 117, 117, 0)\\n}\\n.root::menuItem:hover {}\\n.root::menuItem::label{\\n    letter-spacing: 0em\;\\n    -st-mixin: font_8\;\\n    font-size: 16px\;\\n    text-decoration-line: none\;\\n    color: value(site_1_5)\\n}\\n.root::menuItem::container{\\n    justify-content: flex-end\\n}\\n.root::rightAlignmentScrollItem{\\n    --flexGrow: unset\;\\n    flex-grow: unset\\n}\\n.root::scrollButton{\\n    padding:10px\;\\n    border: 1px solid value(site_1_5)\;\\n    background: value(site_1_1)\;\\n    padding-top:0px\;\\n    padding-bottom:0px\\n}\\n.root::scrollButton:hover{\\n    background: value(site_1_5)\;\\n    border-color: value(site_1_5)\\n}\\n.root::scrollButton::icon{\\n    width:16px\;\\n    height:16px\;\\n    fill: value(site_1_5)\\n}\\n.root::positionBox{\\n    margin-left:20px\;\\n    margin-right:20px\\n}\\n.root::columnsLayout{\\n    --horizontalSpacing:8\;\\n    padding:10px\;\\n    margin-top: 0px\;\\n    border: 0px solid value(site_1_5)\;\\n    background: value(site_1_1)\;\\n    --flyoutAlignment: center\\n}\\n.root::leftAlignmentScrollItem {\\n    --flexGrow: unset\;\\n    flex-grow: 1\;\\n}\\n.root::columnsLayout::listWrapper{\\n    --width:80\;\\n    --columnsAmount: 3\;\\n    column-count: 3\;\\n    width: 100%\\n}\\n.root::columnsLayout::pageWrapper{\\n    width:calc(100% + 8px)\;\\n    margin-left:-4px\;\\n    margin-right:-4px\;\\n    justify-content: space-between\;\\n    margin-bottom: -8px\\n}\\n.root::columnsLayout::pageStretchWrapper{\\n    width:980px\\n}\\n.root::columnsLayout::category{\\n    margin-top: 8px\\n}\\n.root::columnsLayout::flex{\\n    margin-bottom:-8px\\n}\\n.root::columnsLayout::listItem{\\n    margin-left:4px\;\\n    margin-right:4px\\n}\\n.root::columnsLayout::rowItem{\\n    margin-bottom:8px\\n}\\n.root::columnsLayout::menuItem{\\n    padding-top: 8px\;\\n    padding-bottom: 8px\;\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n    padding-left: 10px\;\\n    padding-right: 10px\;\\n    margin-bottom: 8px\\n}\\n.root::columnsLayout::menuItem:isCurrentPage {\\n    background: rgba(255, 255, 255, 0)\;\\n    border-color: value(site_1_5)\;\\n}\\n.root::columnsLayout::menuItem:isHovered {\\n    border-color: value(site_1_5)\;\\n    background: rgba(255, 255, 255, 0)\;\\n}\\n.root::columnsLayout::menuItem:hover {}\\n.root::columnsLayout::menuItem::container{\\n    justify-content: flex-end\\n}\\n.root::columnsLayout::menuItem::label{\\n    letter-spacing:0.05em\;\\n    color: value(site_1_5)\;\\n    -st-mixin: font_8\;\\n    text-align: right\\n}\\n.root::columnsLayout::menuItem::label:hover {}\\n.root::columnsLayout::heading{\\n    background:#fff\;\\n    padding-top: 8px\;\\n    padding-bottom: 8px\;\\n    padding-left: 10px\;\\n    padding-right: 10px\;\\n    margin-bottom: 8px\\n}\\n.root::menuItem:isCurrentPage::label {\\n    color: value(site_1_5)\;\\n    text-decoration-line: underline\;\\n}\\n.root::menuItem:isHovered::label {\\n    color: value(site_1_5)\;\\n    text-decoration-line: underline\;\\n}\\n.root::scrollButton:hover::icon {\\n    fill: value(site_1_1)\;\\n}\\n.root::columnsLayout::heading::container{\\n    justify-content: flex-end\\n}\\n.root::columnsLayout::heading::label{\\n    font-weight:400\;\\n    font-size:16px\;\\n    letter-spacing:0.05em\;\\n    font-family:futura-lt-w01-book,sans-serif\;\\n    color:#9E3B1B\;\\n    text-align: right\\n}\\n.root::columnsLayout::menuItem:isCurrentPage::label{\\n    color: value(site_1_5)\;\\n    text-decoration-line: underline\\n}\\n.root::columnsLayout::menuItem:isHovered::label {\\n    color: value(site_1_5)\;\\n    text-decoration-line: underline\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-liu6tfrg.variants-ljclok8y1 {
+  height: auto;
+  hidden: true;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 45.6875px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 37.547607421875%;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0.00244140625%;
+  item-margin-left: 0%;
+  item-margin-right: 5%;
+  item-margin-top: 0%;
+  position: relative;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 768;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.StylableHorizontalMenu;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1263;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: StylableHorizontalMenu\;\\n}\\n.root{\\n    -st-extends: StylableHorizontalMenu\;\\n}\\n.root::menuItem:hover {}\\n/* ADD_MISSING_HEADING_STYLES_DATA_FIXER start */\\n.root::columnsLayout::heading{\\n  padding-top:10px\;\\n  padding-bottom:10px\;\\n  padding-left:10px\;\\n  padding-right:10px\;\\n  background-color: rgba(255, 255, 255, 0.5)\\n}\\n.root::columnsLayout::menuItem:hover {}\\n.root::columnsLayout::heading::label{\\n  font-size:16px\;\\n  font-weight: bold\;\\n  font-family: Helvetica, sans-serif\;\\n  color: #000\;\\n}\\n.root::columnsLayout::heading:isHovered::label{\\n  text-decoration: underline\;\\n}\\n.root::columnsLayout::heading:isCurrentPage::label{\\n  text-decoration: underline\;\\n}\\n.root::columnsLayout::menuItem::label:hover {}\\n/* ADD_MISSING_HEADING_STYLES_DATA_FIXER end */";
+  style-type: ComponentStyle;
+}
+
+#comp-liu6tfrg.variants-ljclok8y2 {
+  comp-id: ;
+  class-name: wixui.StylableHorizontalMenu;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1263;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: StylableHorizontalMenu\;\\n}\\n.root{\\n    -st-extends: StylableHorizontalMenu\;\\n}\\n.root::menuItem:hover {}\\n/* ADD_MISSING_HEADING_STYLES_DATA_FIXER start */\\n.root::columnsLayout::heading{\\n  padding-top:10px\;\\n  padding-bottom:10px\;\\n  padding-left:10px\;\\n  padding-right:10px\;\\n  background-color: rgba(255, 255, 255, 0.5)\\n}\\n.root::columnsLayout::menuItem:hover {}\\n.root::columnsLayout::heading::label{\\n  font-size:16px\;\\n  font-weight: bold\;\\n  font-family: Helvetica, sans-serif\;\\n  color: #000\;\\n}\\n.root::columnsLayout::heading:isHovered::label{\\n  text-decoration: underline\;\\n}\\n.root::columnsLayout::heading:isCurrentPage::label{\\n  text-decoration: underline\;\\n}\\n.root::columnsLayout::menuItem::label:hover {}\\n/* ADD_MISSING_HEADING_STYLES_DATA_FIXER end */";
+  style-type: ComponentStyle;
+}
+
+#comp-liu7a4zw {
+  override-color1: color_15;
+  opacity: 1;
+  stroke: disabled(rgba(94,151,255,1) 4px);
+  design-type: VectorImageDesignData;
+  height: 29.296875px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 44.25px;
+  align-self: start;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 10px;
+  item-margin-top: 0px;
+  order: 1;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  class-name: wysiwyg.viewer.components.VectorImage;
+  skin: skins.viewer.VectorImageSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-lj2tel67 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 222px;
+  align-self: center;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  order: 2;
+  item-layout: StackItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.WRichText;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.WRichTextThemeSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  font-size: 18px;
+  letter-spacing: 0em;
+  line-height: normal;
+  text-decoration: none;
+  style-type: ComponentStyle;
+}
+
+#comp-lj2tqesr {
+  height: auto;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: maxContent;
+  flex-direction: row;
+  container-layout: StackContainerLayout;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0.001220703125%;
+  item-margin-left: 2.999267578125%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: mobile.core.components.Container;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.area.DefaultAreaSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  background: rgba(var(--color_11),0.0);
+  border-color: rgba(initial,0);
+  border-width: 0px;
+  border-radius: 0px;
+  box-shadow: disabled(0px 0px 0px 0px rgba(0,0,0,0.6));
+  style-type: ComponentStyle;
+}
+
+#comp-lj2tqesr.variants-ljclok8y1 {
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 5%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lj2tqesr.variants-ljclok8y2 {
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-margin-bottom: 0%;
+  item-margin-left: 8%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lxu2mi30 {
+  height: 35px;
+  hidden: true;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 35px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 2.999267578125%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerMenuRoot;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi30.variants-ljclok8y1 {
+  height: 35px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 35px;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 5%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lxu2mi30.variants-ljclok8y2 {
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 8%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-lxu2mi38 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: auto;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerOpenButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1263;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding: 0px\;border: 0px solid #949494\;border-radius: 0px\;box-shadow:\;background: rgba(255, 255, 255, 0)}.root:hover {\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid #000000\;\\n}.root:hover::icon {\\n    transform: rotate(0deg)\;\\n    fill: value(site_2_3)\;}.root:hover::label {\\n    color: #FFFFFF\;\\n}.root:disabled{border: 0px solid #000000\;background: #EEEEEE}.root:disabled::label{\\n    color: #4F4F4F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: center\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;color: #000000\;-st-mixin: font_8\;font-family: madefor-text\;font-size: 16px\;font-style: normal\;font-weight: normal\;line-height: 1.4em\;margin-right: 0px\;margin-left: 0px\;margin-top: 0px\;margin-bottom: 0px\;display: none}.root::icon{transition: inherit\;margin: 0px 4px 0px 0px\;width: 60px\;height: 60px\;margin-left: 0px\;margin-right: 0px\;margin-bottom: 0px\;margin-top: 0px\;fill: value(site_1_5)\;display: initial}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi38.variants-ljclok8y2 {
+  comp-id: ;
+  class-name: wixui.HamburgerOpenButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 373;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerOpenButton\;\\n}\\n.root{\\n    -st-extends: HamburgerOpenButton\;\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}\\n.root::icon {}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi38.variants-ljclok8y1 {
+  comp-id: ;
+  class-name: wixui.HamburgerOpenButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 751;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerOpenButton\;\\n}\\n.root{\\n    -st-extends: HamburgerOpenButton\;\\n    background: rgba(255, 255, 255, 0)\;\\n    border: 0px solid value(site_1_5)\;\\n}\\n.root::icon {}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3c {
+  height: 300px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 300px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 980px;
+  grid-template-columns: 1fr;
+  hide-scroll-bar: true;
+  overflow-x: scroll;
+  overflow-y: scroll;
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerOverlay;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {-st-from: 'wix-ui-santa/index.st.css'\; -st-named: HamburgerOverlay\;} .root { -st-extends: HamburgerOverlay\; background-color: rgba(0,0,0,0.8)\; }";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3c.variants-ljclok8y1 {
+  comp-id: ;
+  class-name: wixui.HamburgerOverlay;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerOverlay\;\\n}\\n.root{\\n    -st-extends: HamburgerOverlay\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3c.variants-ljclok8y2 {
+  comp-id: ;
+  class-name: wixui.HamburgerOverlay;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerOverlay\;\\n}\\n.root{\\n    -st-extends: HamburgerOverlay\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3d5 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 79px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 40%;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,512fr);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(79px,auto);
+  container-layout: GridContainerLayout;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 0%;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerMenuContainer;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {-st-from: 'wix-ui-santa/index.st.css'\; -st-named: HamburgerMenuContainer\;} .root { -st-extends: HamburgerMenuContainer\; background-color: #FFFFFF\; }";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3d5.variants-ljclok8y2 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 79px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  column-gap: 0px;
+  grid-template-columns: minmax(0px,390fr);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  row-gap: 0px;
+  grid-template-rows: minmax(79px,auto);
+  container-layout: GridContainerLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerMenuContainer;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 390;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerMenuContainer\;\\n}\\n.root{\\n    -st-extends: HamburgerMenuContainer\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3d5.variants-ljclok8y1 {
+  comp-id: ;
+  class-name: wixui.HamburgerMenuContainer;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 768;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import {\\n    -st-from: 'wix-ui-santa/index.st.css'\;\\n    -st-named: HamburgerMenuContainer\;\\n}\\n.root{\\n    -st-extends: HamburgerMenuContainer\;\\n}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxu2mi3i1 {
+  height: 20px;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 20px;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 45.890625px;
+  item-margin-top: 34.5px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wixui.HamburgerCloseButton;
+  page-id: ;
+  skin: wixui.skins.Skinless;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-$st_css-value: ":import{-st-from: 'wix-ui-santa/index.st.css'\;-st-named: StylableButton}.root{-st-extends: StylableButton\;transition: all 0.2s ease, visibility 0s\;padding-right: 0px\;border-radius: 300px\;background: rgba(255, 255, 255, 0)}.root:hover {\\n    background: #FFFFFF\;\\n    border: 0px solid #000000\;\\n    border-radius: 0px\;\\n}.root:hover::icon {\\n    fill: #000000\;\\n    transform: rotate(90deg)\;}.root:hover::label {\\n    color: #000000\;\\n}.root:disabled{\\n    background: #EEEEEE}.root:disabled::label{\\n    color: #4F4F4F}.root:disabled::icon{fill: #8F8F8F}.root::container{transition: inherit\;flex-direction: row-reverse\;justify-content: center\;align-items: center}.root::label{transition: inherit\;letter-spacing: 0em\;margin: 0px 0px 0px 4px\;color: #FFFFFF\;-st-mixin: font_8\;font-family: madefor-text\;font-size: 16px\;font-style: normal\;font-weight: normal\;line-height: 1.4em\;display: none\;margin-left: 1px}.root::icon{transition: inherit\;margin: 0px 4px 0px 0px\;display: initial\;transform: rotate(0deg)\;fill: #000000\;width: 28px\;height: 28px\;margin-right: 1px}";
+  style-type: ComponentStyle;
+}
+
+#comp-lxubhuix {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 90%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 200px;
+  item-margin-left: 0%;
+  item-margin-right: 0%;
+  item-margin-top: 100px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.ExpandableMenu;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.ResponsiveExpandableMenuSkin;
+  spx-ref-width: 1280;
+  spx-resolver-type: scale;
+  style-style-arrowColor-value: "#000000";
+  background: rgba(255,255,255,0);
+  style-style-bgexpanded-additionalData-alpha: "0";
+  style-style-bgexpanded-value: "#FFFFFF";
+  background-color-hover: rgba(230,234,245,1);
+  style-style-bgs-additionalData-alpha: "0.0";
+  style-style-bgs-value: "#FFFFFF";
+  style-style-bgsSub-additionalData-alpha: "0.0";
+  style-style-bgsSub-value: "#000000";
+  border-color: rgba(0,0,0,0);
+  border-width: 0px;
+  font: {"overrides":{"color":"#000000","fontFamily":"madefor-text","fontSize":"16px","fontStyle":"normal","fontVariant":"normal","fontWeight":"normal","letterSpacing":"0em","lineHeight":"1.4em"},"value":"font_8"};
+  style-style-fntSubMenu-overrides-color: "#000000";
+  style-style-fntSubMenu-overrides-fontFamily: "madefor-text";
+  style-style-fntSubMenu-overrides-fontSize: "14px";
+  style-style-fntSubMenu-overrides-fontStyle: "normal";
+  style-style-fntSubMenu-overrides-fontVariant: "normal";
+  style-style-fntSubMenu-overrides-fontWeight: "normal";
+  style-style-fntSubMenu-overrides-letterSpacing: "0em";
+  style-style-fntSubMenu-overrides-lineHeight: "1.4em";
+  style-style-fntSubMenu-value: "font_8";
+  style-style-menuSpacing-value: "10";
+  border-radius: 90px;
+  style-style-separatorHeight-value: "15";
+  style-style-sepw-value: "1";
+  box-shadow: disabled(0px 1px 4px 0px rgba(0,0,0,0.6));
+  style-style-SKINS\\_bgSubmenu-additionalData-alpha: "0";
+  style-style-SKINS\\_fntSubmenu-value: "normal normal normal 16px/1.4em din-next-w01-light #8D8D8D";
+  style-style-SKINS\\_submenuBR-value: "90px";
+  style-style-SKINS\\_submenuMargin-value: "0";
+  style-style-subMenuSpacing-value: "0";
+  style-style-textSpacing-value: "0";
+  text: rgb(0,0,0);
+  style-style-txtexpanded-value: "#000000";
+  style-style-txts-value: "#1A6AFF";
+  style-style-txtsSub-value: "#1A6AFF";
+  padding-vertical: 10;
+  style-type: ComponentStyle;
+}
+
+#comp-lxubhuix.variants-ljclok8y2 {
+  height: auto;
+  hidden: false;
+  max-height: 99999px;
+  max-width: 99999px;
+  min-height: 0px;
+  min-width: 0px;
+  component-layout: ComponentLayout;
+  width: 90%;
+  layout-spx-refWidth: 390;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-m4v63zzl {
+  height: 27px;
+  component-layout: ComponentLayout;
+  width: 23px;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0%;
+  item-margin-left: 0px;
+  item-margin-right: 2.2%;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-type: SingleLayoutData;
+  comp-id: ;
+  class-name: wysiwyg.viewer.components.tpapps.TPAWidget;
+  page-id: ;
+  skin: wysiwyg.viewer.skins.TPAWidgetSkin;
+  style-style-param\\_boolean\\_responsive-value: "true";
+  style-type: ComponentStyle;
+}
+
+#comp-m4v643t9 {
+  height: 40px;
+  hidden: false;
+  min-height: 40px;
+  component-layout: ComponentLayout;
+  width: 120px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: end;
+  item-margin-bottom: 0px;
+  item-margin-left: 0%;
+  item-margin-right: 70px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  class-name: platform.components.AppWidget;
+  skin: platform.components.skins.AppWidgetSkin;
+  style-type: ComponentStyle;
+}
+
+#comp-m4v643tc {
+  height: 100%;
+  min-height: 40px;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: start;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: stretch;
+  item-margin-bottom: 0px;
+  item-margin-left: 0px;
+  item-margin-right: 0px;
+  item-margin-top: 0px;
+  item-layout: GridItemLayout;
+  layout-type: SingleLayoutData;
+  class-name: wysiwyg.viewer.components.LoginSocialBar;
+  skin: wysiwyg.viewer.skins.LoginSocialBarSkin;
+  style-style-avatarAndArrowStrokeWidth-value: "0";
+  style-style-avatarCornerRadius-value: "100px";
+  style-style-badge_bg-value: "#E21C21";
+  style-style-badge_txt-value: "color_11";
+  background: rgba(var(--color_11),0);
+  style-style-bg_dd-value: "color_11";
+  border-color: rgba(var(--color_15),1);
+  style-style-brd_dd-additionalData-alpha: "0.2";
+  style-style-brd_dd-value: "color_15";
+  border-width: 0;
+  style-style-brw_dd-value: "1px";
+  style-style-fillcolor-value: "color_18";
+  font: overrides(var(--font_8),initial initial 16spx initial);
+  style-style-fnt_size_dd-value: "15px";
+  border-radius: 0px;
+  style-style-rd_dd-value: "0px";
+  box-shadow: disabled(0 0 0 transparent);
+  style-style-shd_dd-additionalData-boxShadowToggleOn: "false";
+  style-style-shd_dd-value: "0 0 0 transparent";
+  text: rgb(var(--color_18));
+  style-style-txt_dd-value: "color_15";
+  style-style-txt_slct_dd-value: "color_19";
+  text-hover: rgb(var(--color_19));
+  style-style-txth_dd-value: "color_19";
+  style-type: ComponentStyle;
+}
+
+#CONTROLLER_COMP_CUSTOM_ID {
+  height: 60px;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 60px;
+  align-self: start;
+  justify-self: end;
+  item-layout: FixedItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+  class-name: platform.components.AppController;
+  skin: platform.components.skins.controllerSkin;
+  background: rgba(61,155,233,1);
+  background-color-hover: rgba(43,104,156,1);
+  border-color: rgba(43,104,156,1);
+  border-color-hover: rgba(61,155,233,1);
+  border-width: 0px;
+  font: normal normal normal 14px/1.4em raleway;
+  border-radius: 20px;
+  box-shadow: disabled(0 1px 4px rgba(0, 0, 0, 0.6));
+  text: rgba(255,255,255,1);
+  text-hover: rgba(255,255,255,1);
+  style-type: ComponentStyle;
+}
+
+#masterPage {
+  layout-anchors: [{"distance":0,"locked":false,"targetComponent":"PAGES_CONTAINER","type":"BOTTOM_TOP"}];
+  layout-rotationInDegrees: 0;
+  layout-type: "ClassicLayout";
+  layout-y: 0;
+}
+
+#PAGES_CONTAINER {
+  layout-fixedPosition: false;
+  layout-height: 500;
+  layout-rotationInDegrees: 0;
+  layout-scale: 1;
+  layout-type: "ClassicLayout";
+  layout-width: 980;
+  layout-x: 0;
+  layout-y: 111;
+}
+
+#SITE_FOOTER {
+  layout-fixedPosition: false;
+  layout-height: 132;
+  layout-rotationInDegrees: 0;
+  layout-scale: 1;
+  layout-type: "ClassicLayout";
+  layout-width: 980;
+  layout-x: 0;
+  layout-y: 611;
+}
+
+#SITE_HEADER {
+  layout-fixedPosition: false;
+  layout-height: 111;
+  layout-rotationInDegrees: 0;
+  layout-scale: 1;
+  layout-type: "ClassicLayout";
+  layout-width: 980;
+  layout-x: 0;
+  layout-y: 0;
+}
+
+#SITE_PAGES {
+  layout-fixedPosition: false;
+  layout-height: 500;
+  layout-rotationInDegrees: 0;
+  layout-scale: 1;
+  layout-type: "ClassicLayout";
+  layout-width: 980;
+  layout-x: 0;
+  layout-y: 0;
+}

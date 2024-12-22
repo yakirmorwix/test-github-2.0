@@ -1,0 +1,8 @@
+<Page codeName="page1" id="fm1sb">
+  <RefComponent id="comp-m4v63yqy" />
+  <RefComponent id="comp-m4v63z8c" />
+  <RefComponent id="comp-m4v63zdx" />
+  <Section codeName="section4" id="comp-m4v64haq">
+    <TPAMultiSection codeName="shoppingCart1" id="TPAMultiSection_m4v63y74" />
+  </Section>
+</Page>

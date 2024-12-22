@@ -1,0 +1,8 @@
+<Page codeName="page1" id="e1afi">
+  <RefComponent id="comp-m4v66hkv" />
+  <RefComponent id="comp-m4v66hv6" />
+  <RefComponent id="comp-m4v66ieh" />
+  <Section codeName="section4" id="comp-m4v66l4v">
+    <TPASection codeName="bookingsList1" id="TPASection_m4v66dhf" />
+  </Section>
+</Page>

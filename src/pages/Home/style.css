@@ -1,0 +1,260 @@
+@media (canvas-size: 1280px) {
+  #c1dmp {
+    height: auto;
+    component-layout: ComponentLayout;
+    grid-template-columns: minmax(0px,1fr);
+    overflow-x: clip;
+    overflow-y: clip;
+    grid-template-rows: auto auto auto;
+    container-layout: GridContainerLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: mobile.core.components.Page;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.page.ResponsivePageWithColorBG;
+    spx-ref-width: 1280;
+    spx-resolver-type: scale;
+    background: rgba(var(--color_11),1);
+    style-type: ComponentStyle;
+  }
+
+  #comp-kbgakxea {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 768;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: mobile.core.components.Container;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-kbgakxmn {
+    height: auto;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 4;
+    grid-row-start: 3;
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: mobile.core.components.Container;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-kd5px9q0 {
+    height: auto;
+    hidden: false;
+    component-layout: ComponentLayout;
+    width: auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    container-layout: GridContainerLayout;
+    align-self: start;
+    justify-self: end;
+    item-margin-right: 0px;
+    item-margin-top: 0px;
+    item-layout: FixedItemLayout;
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.RefComponent;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.ResponsiveContainerRefSkin;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-m28o2bbb {
+    design-background-alignType: "center";
+    design-background-color: "color_11";
+    design-background-colorOpacity: 1;
+    design-background-colorOverlay: "";
+    design-background-colorOverlayOpacity: 0;
+    design-background-fittingType: "fill";
+    design-background-scrollType: "none";
+    design-background-type: "BackgroundMedia";
+    design-type: "MediaContainerWithDividers";
+    height: auto;
+    hidden: false;
+    max-height: 99999px;
+    max-width: 99999px;
+    min-height: 0px;
+    min-width: 0px;
+    component-layout: ComponentLayout;
+    grid-template-columns: minmax(0px,1fr);
+    content-max-width: 99999999999px;
+    padding-bottom: 0spx;
+    padding-left: 0spx;
+    padding-right: 0spx;
+    padding-top: 0spx;
+    grid-template-rows: minmax(500spx,auto);
+    container-layout: GridContainerLayout;
+    align-self: stretch;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 3;
+    grid-row-start: 2;
+    justify-self: stretch;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    layout-variableConnections: [{"path":"containerLayout/contentMaxWidth/maxWidth","variableId":"variables-m28o2bcx"}];
+    comp-id: ;
+    class-name: responsive.components.Section;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.area.RectangleArea;
+    background: rgba(var(--color_11),0);
+    style-type: ComponentStyle;
+  }
+
+  #comp-m4vj0pum {
+    height: aspect-ratio(0.2943661971830986);
+    hidden: false;
+    max-height: 99999px;
+    max-width: 99999px;
+    min-height: unset;
+    min-width: 0px;
+    component-layout: ComponentLayout;
+    width: 11.09375%;
+    align-self: start;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    justify-self: center;
+    item-margin-bottom: 0spx;
+    item-margin-left: 0spx;
+    item-margin-right: 0spx;
+    item-margin-top: 341.09375spx;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wysiwyg.viewer.components.SiteButton;
+    page-id: ;
+    skin: wysiwyg.viewer.skins.button.WrappingButton;
+    spx-ref-width: 1280;
+    spx-resolver-type: scale;
+    align: center;
+    background: rgba(var(--color_15),1);
+    background-color-hover: rgba(var(--color_18),1);
+    border-color: rgba(var(--color_15),1);
+    border-color-hover: rgba(50,50,50,0);
+    border-width: 0spx;
+    font: overrides(var(--font_8),initial initial 15spx initial);
+    padding-horizontal: 15spx;
+    margin: 0spx;
+    border-radius: 0spx 0spx 0spx 0spx;
+    box-shadow: disabled(0spx 1.238spx 4.951spx 0spx rgba(0,0,0,0.6));
+    text: rgba(var(--color_11),1);
+    text-hover: rgba(var(--color_11),1);
+    padding-vertical: 8spx;
+    style-type: ComponentStyle;
+  }
+
+  #comp-m4zg65mb {
+    crop: 0px 0px 3734px 2489px;
+    crop-mask: url() none;
+    design-type: ImageXCustomDesign;
+    height: aspect-ratio(0.6665555740709879);
+    hidden: false;
+    max-height: 99999px;
+    max-width: 99999px;
+    min-height: unset;
+    min-width: 0px;
+    component-layout: ComponentLayout;
+    width: 22.684865322089472%;
+    align-self: center;
+    grid-column-end: 2;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+    justify-self: center;
+    item-margin-bottom: 0spx;
+    item-margin-left: 0spx;
+    item-margin-right: 0spx;
+    item-margin-top: 0spx;
+    item-layout: GridItemLayout;
+    layout-spx-refWidth: 1280;
+    layout-spx-resolverType: "scale";
+    layout-type: SingleLayoutData;
+    comp-id: ;
+    class-name: wixui.ImageX;
+    page-id: ;
+    skin: wixui.skins.ImageX;
+    spx-ref-width: 1280;
+    spx-resolver-type: scale;
+    background-color: rgba(0,0,0,0.0);
+    style-style-borderColor-additionalData-alpha: 0;
+    style-style-borderColor-value: "#ffffff";
+    style-style-borderWidth-value: "0spx";
+    style-style-boxShadow-additionalData-boxShadowToggleOn: "false";
+    style-style-boxShadow-value: "3.54spx 3.54spx 10spx 0spx rgba(0,0,0,0.33)";
+    style-style-cornerRadius-value: "0spx";
+    style-style-mediaOpacity-value: 1;
+    style-type: ComponentStyle;
+  }
+
+}
+
+@media (max-width: 1000px) and (canvas-size: 768px) {
+  #comp-kd5px9q0 {
+    hidden: false;
+    component-layout: ComponentLayout;
+    align-self: stretch;
+    justify-self: end;
+    item-margin-bottom: 0px;
+    item-margin-left: 0px;
+    item-margin-right: 0px;
+    item-margin-top: 0px;
+    item-layout: FixedItemLayout;
+    layout-type: SingleLayoutData;
+  }
+
+}
+
+@media (max-width: 750px) and (canvas-size: 390px) {
+  #comp-kd5px9q0 {
+    hidden: false;
+    component-layout: ComponentLayout;
+    align-self: stretch;
+    justify-self: stretch;
+    item-margin-bottom: 0px;
+    item-margin-left: 0%;
+    item-margin-right: 0px;
+    item-margin-top: 0px;
+    item-layout: FixedItemLayout;
+    layout-type: SingleLayoutData;
+  }
+
+}

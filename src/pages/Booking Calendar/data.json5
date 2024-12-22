@@ -1,0 +1,141 @@
+{
+  externalRefs: {
+    'comp-kbgajy18': 'comp-kbgajy18',
+    'comp-kbgakgyt': 'comp-kbgakgyt',
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    'variables-m28o2bcx': 'variables-m28o2bcx',
+  },
+  components: {
+    'comp-m4v66inb': {
+      data: {
+        rootCompId: 'comp-kbgajy18',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4v66ixa': {
+      data: {
+        rootCompId: 'comp-kbgakgyt',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4v66j3z': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    gdacw: {
+      breakpointVariants: {
+        componentId: 'gdacw',
+        type: 'BreakpointsData',
+        values: [
+          {
+            canvasSize: 1280,
+            id: 'variants-m4v66di6',
+            max: 2147483647,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 768,
+            id: 'variants-m4v66di61',
+            max: 1000,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 390,
+            id: 'variants-m4v66di62',
+            max: 750,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+        ],
+      },
+      data: {
+        appDefinitionId: '13d21c63-b5ec-5912-8397-c3a5ddb27a97',
+        descriptionSEO: '',
+        hidePage: true,
+        hideTitle: true,
+        icon: '',
+        id: 'gdacw',
+        managingAppDefId: '13d21c63-b5ec-5912-8397-c3a5ddb27a97',
+        metaKeywordsSEO: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: 'color_11',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: 'color_11',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'booking-calendar',
+        title: 'Booking Calendar',
+        tpaApplicationId: 7417,
+        tpaPageId: 'Booking Calendar',
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      fixerVersions: {
+        migration_fixer: 'AAQBAQEBAQEBAQEBAQICAgECAgEIAQECAQECAAIBAAEAAQEBAQEFAQAFAQEAAQABAQEBAQIAAQI=',
+        type: 'FixerVersions',
+        viewer_fixer: 'AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA==',
+      },
+      mobileHints: {
+        hidden: false,
+        type: 'MobileHints',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.TransparentPageSkin',
+      },
+    },
+    TPAMultiSection_m4v66di3: {
+      data: {
+        appDefinitionId: '13d21c63-b5ec-5912-8397-c3a5ddb27a97',
+        applicationId: '7417',
+        id: 'dataItem-m4v66did',
+        type: 'TPAMultiSection',
+        usesCssPerBreakpoint: true,
+        widgetId: '54d912c5-52cb-4657-b8fa-e1a4cda8ed01',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.TPASectionSkin',
+      },
+    },
+  },
+  appControllers: {},
+  version: '0.0.23',
+  collections: {},
+}

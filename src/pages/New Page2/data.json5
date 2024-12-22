@@ -1,0 +1,445 @@
+{
+  externalRefs: {
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    'variables-m28o2bcx': 'variables-m28o2bcx',
+  },
+  components: {
+    'comp-m4v7yf8o2': {
+      editorsettings: {
+        layoutIntent: 'SuperGrid',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.RectangleArea',
+      },
+    },
+    'comp-m4v7yf8s': {
+      editorsettings: {
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      naming: {
+        name: 'Cell',
+        type: 'naming',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf8u1': {
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      mobileHints: {
+        author: 'duplicate',
+        originalCompId: 'comp-k5xmk45j',
+        recommendedHeight: 112,
+        recommendedScale: 1,
+        recommendedWidth: 260,
+        type: 'MobileHints',
+      },
+      naming: {
+        name: '48px margins',
+        type: 'naming',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf8w2': {
+      editorsettings: {
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      mobileHints: {
+        author: 'duplicate',
+        originalCompId: 'comp-k5xmk45j',
+        recommendedHeight: 112,
+        recommendedScale: 1,
+        recommendedWidth: 260,
+        type: 'MobileHints',
+      },
+      naming: {
+        name: 'Min-max container',
+        type: 'naming',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf8y': {
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      naming: {
+        name: 'Card Stack',
+        type: 'naming',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf90': {
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      mobileHints: {
+        author: 'duplicate',
+        originalCompId: 'comp-k5xmk45j',
+        recommendedHeight: 112,
+        recommendedScale: 1,
+        recommendedWidth: 260,
+        type: 'MobileHints',
+      },
+      naming: {
+        name: 'Content Area',
+        type: 'naming',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf921': {
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      naming: {
+        name: 'Header Stack',
+        type: 'naming',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf935': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-m4v7yf96': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-m4v7yf973': {
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      naming: {
+        name: 'Divider',
+        type: 'naming',
+      },
+      props: {
+        type: 'FiveGridLineProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.line.SolidLine',
+      },
+    },
+    'comp-m4v7yf991': {
+      editorsettings: {
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      naming: {
+        name: 'Header Cell',
+        type: 'naming',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf9d': {
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      mobileHints: {
+        author: 'duplicate',
+        originalCompId: 'comp-k5xmk45j',
+        recommendedHeight: 112,
+        recommendedScale: 1,
+        recommendedWidth: 260,
+        type: 'MobileHints',
+      },
+      naming: {
+        name: '48px margins',
+        type: 'naming',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf9e6': {
+      editorsettings: {
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      mobileHints: {
+        author: 'duplicate',
+        originalCompId: 'comp-k5xmk45j',
+        recommendedHeight: 112,
+        recommendedScale: 1,
+        recommendedWidth: 260,
+        type: 'MobileHints',
+      },
+      naming: {
+        name: 'Min-max container',
+        type: 'naming',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf9g1': {
+      editorsettings: {
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      naming: {
+        name: 'Title Stack',
+        type: 'naming',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf9h4': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      editorsettings: {
+        dockingBehavior: 'keep',
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-m4v7yf9i6': {
+      data: {
+        linkList: [],
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      editorsettings: {
+        dockingBehavior: 'keep',
+        type: 'EditorSettings',
+      },
+      props: {
+        packed: true,
+        type: 'WRichTextProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextNewSkin',
+      },
+    },
+    'comp-m4v7yf9k': {
+      editorsettings: {
+        sizingBehavior: 'preset',
+        type: 'EditorSettings',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.area.DefaultAreaSkin',
+      },
+    },
+    'comp-m4v7yf9l4': {
+      data: {
+        type: 'LinkableButton',
+      },
+      mobileHints: {
+        author: 'duplicate',
+        originalCompId: 'comp-k5v6z4a4',
+        recommendedHeight: 35,
+        recommendedScale: 1,
+        recommendedWidth: 130,
+        type: 'MobileHints',
+      },
+      props: {
+        type: 'ButtonProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.button.WrappingButton',
+      },
+    },
+    'comp-m4v7yf9o': {
+      data: {
+        type: 'LinkableButton',
+      },
+      mobileHints: {
+        author: 'duplicate',
+        originalCompId: 'comp-k5v6z4a4',
+        recommendedHeight: 35,
+        recommendedScale: 1,
+        recommendedWidth: 130,
+        type: 'MobileHints',
+      },
+      props: {
+        type: 'ButtonProperties',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.button.WrappingButton',
+      },
+    },
+    'comp-m4v7yfec': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4v7yfy9': {
+      data: {
+        applicationId: '1514b01b-cb08-41b4-8582-0a88551ac769',
+        controllerType: 'singleAdminPageController',
+        id: 'dataItem-m4v7yfyb',
+        name: 'admin-pages-controller',
+        settings: '{"pageId":"vhnyc"}',
+        type: 'AppController',
+      },
+    },
+    vhnyc: {
+      breakpointVariants: {
+        componentId: 'vhnyc',
+        type: 'BreakpointsData',
+        values: [
+          {
+            canvasSize: 1280,
+            id: 'variants-m4v7yf8n1',
+            max: 2147483647,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 768,
+            id: 'variants-m4v7yf8n2',
+            max: 1000,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 390,
+            id: 'variants-m4v7yf8n3',
+            max: 750,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+        ],
+      },
+      data: {
+        descriptionSEO: '',
+        hidePage: true,
+        hideTitle: false,
+        icon: '',
+        id: 'vhnyc',
+        indexable: false,
+        isLandingPage: true,
+        managingAppDefId: '1514b01b-cb08-41b4-8582-0a88551ac769',
+        metaKeywordsSEO: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: 'color_11',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: 'color_11',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageSecurity: {
+          requireLogin: true,
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'blank-3',
+        title: 'New Page2',
+        tpaApplicationId: 0,
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      fixerVersions: {
+        migration_fixer: 'AAQBAQEBAQEBAQEBAQICAgECAgEIAQECAQECAAIBAAEAAQEBAQEFAQAFAQEAAQABAQEBAQIAAQI=',
+        type: 'FixerVersions',
+        viewer_fixer: 'AQEBAQEBAgEBAQACAgEBAQEBAQIBAQEBAQECAQEBAQEBAQMBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEBAQEBAQEBAQEBAQECAQEBAQEDAQEBAQEBAQEBAQEBAQEBAQEBAgEBAQAAAAABAQEBAAAAAAAAAA==',
+      },
+      mobileHints: {
+        hidden: false,
+        type: 'MobileHints',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.ResponsivePageWithColorBG',
+      },
+    },
+  },
+  appControllers: {},
+  version: '0.0.23',
+  collections: {},
+}
