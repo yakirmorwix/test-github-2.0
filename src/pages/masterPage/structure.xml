@@ -29,6 +29,9 @@
     <AppWidget codeName="membersLoginBar1" id="comp-m4v643t9">
       <LoginSocialBar codeName="accountNavBar1" id="comp-m4v643tc" />
     </AppWidget>
+    <AppWidget codeName="searchAppController1" id="comp-m4zgs5f9" styleId="appWidget1">
+      <SearchBox codeName="searchBox1" id="comp-m4zgs5fe" />
+    </AppWidget>
   </HeaderSection>
   <FooterSection codeName="section2" id="comp-kbgakgyt">
     <WRichText codeName="text2" id="comp-kd5pdf7t">

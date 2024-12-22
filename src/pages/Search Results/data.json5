@@ -1,0 +1,145 @@
+{
+  externalRefs: {
+    'comp-kbgajy18': 'comp-kbgajy18',
+    'comp-kbgakgyt': 'comp-kbgakgyt',
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    'variables-m28o2bcx': 'variables-m28o2bcx',
+  },
+  components: {
+    'comp-m4zgs4qk': {
+      data: {
+        rootCompId: 'comp-kbgajy18',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4zgs52i': {
+      data: {
+        rootCompId: 'comp-kbgakgyt',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4zgs57h': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4zgs697': {
+      data: {
+        stylesMapId: 'CK_EDITOR_PARAGRAPH_STYLES',
+        type: 'StyledText',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.WRichTextThemeSkin',
+      },
+    },
+    fbr1y: {
+      breakpointVariants: {
+        componentId: 'fbr1y',
+        type: 'BreakpointsData',
+        values: [
+          {
+            canvasSize: 1280,
+            id: 'variants-m4zgs2yr',
+            max: 2147483647,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 768,
+            id: 'variants-m4zgs2yr1',
+            max: 1000,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 390,
+            id: 'variants-m4zgs2yr2',
+            max: 750,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+        ],
+      },
+      data: {
+        appDefinitionId: '1484cb44-49cd-5b39-9681-75188ab429de',
+        descriptionSEO: '',
+        hidePage: true,
+        hideTitle: true,
+        icon: '',
+        id: 'fbr1y',
+        indexable: false,
+        metaKeywordsSEO: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'search',
+        title: 'Search Results',
+        tpaApplicationId: 11078,
+        tpaPageId: 'search_results',
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      mobileHints: {
+        hidden: false,
+        type: 'MobileHints',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.TransparentPageSkin',
+      },
+    },
+    TPASection_m4zgs2yg: {
+      data: {
+        appDefinitionId: '1484cb44-49cd-5b39-9681-75188ab429de',
+        applicationId: '11078',
+        id: 'dataItem-m4zgs2yy',
+        type: 'TPA',
+        usesCssPerBreakpoint: true,
+        widgetId: '44c66af6-4d25-485a-ad9d-385f5460deef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.TPASectionSkin',
+      },
+    },
+  },
+  appControllers: {},
+  version: '0.0.23',
+  collections: {},
+}

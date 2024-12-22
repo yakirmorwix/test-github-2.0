@@ -1048,6 +1048,56 @@
   style-type: ComponentStyle;
 }
 
+#comp-m4zgs5f9 {
+  height: auto;
+  hidden: false;
+  min-height: 45px;
+  component-layout: ComponentLayout;
+  width: 305px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  container-layout: GridContainerLayout;
+  align-self: center;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: center;
+  item-margin-bottom: 0spx;
+  item-margin-left: 0spx;
+  item-margin-right: 0spx;
+  item-margin-top: 0spx;
+  item-layout: GridItemLayout;
+  layout-spx-refWidth: 1280;
+  layout-spx-resolverType: "scale";
+  layout-type: SingleLayoutData;
+}
+
+#comp-m4zgs5fe {
+  height: 100%;
+  hidden: false;
+  component-layout: ComponentLayout;
+  width: 100%;
+  align-self: stretch;
+  grid-column-end: 2;
+  grid-column-start: 1;
+  grid-row-end: 2;
+  grid-row-start: 1;
+  justify-self: start;
+  item-layout: GridItemLayout;
+  layout-type: SingleLayoutData;
+  class-name: wixui.SearchBox;
+  skin: wixui.skins.ResponsiveSearchBox;
+  style-style-buttonBackgroundColor-additionalData-alpha: "0.8";
+  style-style-inputBorderColor-additionalData-alpha: "0.6";
+  style-style-inputFont-overrides-fontSize: "16px";
+  style-style-inputFont-value: "font_8";
+  style-style-inputIconColor-additionalData-alpha: "0.6";
+  style-style-inputShadow-additionalData-boxShadowToggleOn: "false";
+  style-style-inputShadow-value: "0px 1px 4px 0px rgba(0, 0, 0, 0.6)";
+  style-type: ComponentStyle;
+}
+
 #CONTROLLER_COMP_CUSTOM_ID {
   height: 60px;
   hidden: false;

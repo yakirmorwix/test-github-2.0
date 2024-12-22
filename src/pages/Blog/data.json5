@@ -1,0 +1,150 @@
+{
+  externalRefs: {
+    'comp-kbgajy18': 'comp-kbgajy18',
+    'comp-kbgakgyt': 'comp-kbgakgyt',
+    'comp-kd5px9hr': 'comp-kd5px9hr',
+    'variables-m28o2bcx': 'variables-m28o2bcx',
+  },
+  components: {
+    'comp-m4zgs2zh': {
+      data: {
+        rootCompId: 'comp-kbgajy18',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4zgs3fo': {
+      data: {
+        rootCompId: 'comp-kbgakgyt',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4zgs3ko': {
+      data: {
+        rootCompId: 'comp-kd5px9hr',
+        type: 'InternalRef',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.ResponsiveContainerRefSkin',
+      },
+    },
+    'comp-m4zgscbb': {
+      data: {
+        appDefinitionId: '7479d596-137c-4fa3-89cd-d7091042ba61',
+        applicationId: '11311',
+        type: 'WidgetRef',
+        widgetId: '97466558-6e7b-43e6-9734-82123ef4c3f3',
+      },
+    },
+    msohp: {
+      breakpointVariants: {
+        componentId: 'msohp',
+        type: 'BreakpointsData',
+        values: [
+          {
+            canvasSize: 1280,
+            id: 'variants-m4zgryym',
+            max: 2147483647,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 768,
+            id: 'variants-m4zgryym1',
+            max: 1000,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+          {
+            canvasSize: 390,
+            id: 'variants-m4zgryym2',
+            max: 750,
+            min: 320,
+            type: 'BreakpointRange',
+          },
+        ],
+      },
+      data: {
+        appDefinitionId: '14bcded7-0066-7c35-14d7-466cb3f09103',
+        descriptionSEO: '',
+        hidePage: false,
+        hideTitle: true,
+        icon: '',
+        id: 'msohp',
+        managingAppDefId: '14bcded7-0066-7c35-14d7-466cb3f09103',
+        metaKeywordsSEO: '',
+        pageBackgrounds: {
+          desktop: {
+            custom: true,
+            isPreset: true,
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+          mobile: {
+            custom: true,
+            isPreset: true,
+            mediaSizing: 'viewport',
+            ref: {
+              alignType: 'top',
+              color: '{color_11}',
+              colorOverlay: '',
+              colorOverlayOpacity: 0,
+              fittingType: 'fill',
+              scrollType: 'fixed',
+              type: 'BackgroundMedia',
+            },
+          },
+        },
+        pageTitleSEO: '',
+        pageUriSEO: 'blog',
+        title: 'Blog',
+        tpaApplicationId: 10802,
+        tpaPageId: 'blog',
+        translationData: {
+          uriSEOTranslated: false,
+        },
+        type: 'Page',
+        underConstruction: false,
+      },
+      mobileHints: {
+        hidden: false,
+        type: 'MobileHints',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.page.TransparentPageSkin',
+      },
+    },
+    TPASection_m4zgryy1: {
+      data: {
+        appDefinitionId: '14bcded7-0066-7c35-14d7-466cb3f09103',
+        applicationId: '10802',
+        id: 'dataItem-m4zgryz2',
+        type: 'TPA',
+        usesCssPerBreakpoint: false,
+        widgetId: '14c1462a-97f2-9f6a-7bb7-f5541f23caa6',
+      },
+      slots: {
+        slots: {
+          'above-post-list': 'comp-m4zgscbb',
+        },
+        type: 'DynamicSlots',
+      },
+      structure: {
+        skin: 'wysiwyg.viewer.skins.TPASectionSkin',
+      },
+    },
+  },
+  appControllers: {},
+  version: '0.0.23',
+  collections: {},
+}

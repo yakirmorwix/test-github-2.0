@@ -1,0 +1,11 @@
+<Page codeName="page1" id="fbr1y">
+  <Section codeName="section4" id="comp-m4zgs4i7">
+    <TPASection codeName="searchResults1" id="TPASection_m4zgs2yg" />
+    <WRichText codeName="text4" id="comp-m4zgs697" styleId="txtNew">
+      <![CDATA[<h1 class="font_0" style="font-size:32px;text-align:center;"><span style="font-size:32px;">Search Results</span></h1>]]>
+    </WRichText>
+  </Section>
+  <RefComponent id="comp-m4zgs4qk" />
+  <RefComponent id="comp-m4zgs52i" />
+  <RefComponent id="comp-m4zgs57h" />
+</Page>
